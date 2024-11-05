@@ -1,7 +1,14 @@
 # ELI
-  - comp sci jr. student
-  - AI/ ML
+# 🏫 about
+  - comp sci student
   - istp
   - cat lover
+# ⚽ hobbies
   - football (soccer)
-  - ![image](https://github.com/user-attachments/assets/8f7595f1-0e54-4c98-89bf-7700709d990e)
+  - hirono's lmfao
+  - music
+# 💻 learning
+  - AI/ ML
+  - python
+  - java
+  - azure
